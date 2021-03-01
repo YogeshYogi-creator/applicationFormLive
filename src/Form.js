@@ -47,7 +47,7 @@ const Form = (props) => {
             experience: experience,
         }
         
-        axios.post('http://dct-application-form.herokuapp.com/users/application-form', formData)
+        axios.post('https://dct-application-form.herokuapp.com/users/application-form', formData)
         .then((response)=>{
             const result = response.data
             console.log(result)

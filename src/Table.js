@@ -37,7 +37,7 @@ const Table = (props) => {
     }
 
         const rejected = (id) => {
-        axios.put(`http://dct-application-form.herokuapp.com/users/application-form/update/${id}`, {status:"rejected"})
+        axios.put(`https://dct-application-form.herokuapp.com/users/application-form/update/${id}`, {status:"rejected"})
         .then((response)=>{
             console.log(response)
             const result = {
