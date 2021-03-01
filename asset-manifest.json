@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/applicationFormLive/static/js/main.e16658b1.chunk.js",
+    "main.js.map": "/applicationFormLive/static/js/main.e16658b1.chunk.js.map",
+    "runtime-main.js": "/applicationFormLive/static/js/runtime-main.ed749c79.js",
+    "runtime-main.js.map": "/applicationFormLive/static/js/runtime-main.ed749c79.js.map",
+    "static/js/2.316c4819.chunk.js": "/applicationFormLive/static/js/2.316c4819.chunk.js",
+    "static/js/2.316c4819.chunk.js.map": "/applicationFormLive/static/js/2.316c4819.chunk.js.map",
+    "index.html": "/applicationFormLive/index.html",
+    "static/js/2.316c4819.chunk.js.LICENSE.txt": "/applicationFormLive/static/js/2.316c4819.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed749c79.js",
+    "static/js/2.316c4819.chunk.js",
+    "static/js/main.e16658b1.chunk.js"
+  ]
+}
